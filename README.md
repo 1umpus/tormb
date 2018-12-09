@@ -14,13 +14,24 @@ This plug-in was last tested and known to work with
 
 `Shadow v1.12.0-15-g9502fca 2017-10-23 (built 2017-10-26) running GLib v2.46.2 and IGraph v0.7.1`
 
+compiling
+---------
+`bash
+mkdir build
+cd build
+cmake .. -DCMAKE_INSTALL_PREFIX=`readlink -f ~`/.shadow
+make
+make install
+`
+
+
 usage
 -----
 
-Please see the `example.xml`, which may be run in Shadow
+Please see the `shadowtor.config.xml`, which may be run in Shadow
 
 ```bash
-shadow example.xml
+shadow shadowtor.config.xml > shadow.log
 ```
 
 After running the above, check the following directories for process output:

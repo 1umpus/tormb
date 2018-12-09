@@ -1,0 +1,2 @@
+/home/user/.shadow/plugins/libshadow-plugin-cover.so
+/home/user/.shadow/bin/cover

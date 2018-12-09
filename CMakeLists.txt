@@ -1,4 +1,4 @@
-project(shadow-plugins-extra)
+project(tormb)
 
 ## ensure cmake version
 cmake_minimum_required(VERSION 2.8.8 FATAL_ERROR)

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC  -g -fno-inline -fno-strict-aliasing -U_FORTIFY_SOURCE -std=gnu99 -rdynamic -Wl,--no-as-needed -shared -Wl,-soname,libshadow-plugin-cover.so -o libshadow-plugin-cover.so CMakeFiles/shadow-plugin-cover.dir/cover.c.o -Wl,-rpath,:::::::::::::::::::::: 

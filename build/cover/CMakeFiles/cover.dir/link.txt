@@ -1,0 +1,1 @@
+/usr/bin/cc   -g -fno-inline -fno-strict-aliasing -U_FORTIFY_SOURCE -std=gnu99   CMakeFiles/cover.dir/cover.c.o  -o cover -rdynamic 

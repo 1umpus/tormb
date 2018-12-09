@@ -3,7 +3,7 @@
 add_cflags("-std=gnu99")
 
 ## create and install a shared library that can plug into shadow
-add_shadow_plugin(shadow-plugin-coverv cover.c)
+add_shadow_plugin(shadow-plugin-cover cover.c)
 target_link_libraries(shadow-plugin-cover)
 install(TARGETS shadow-plugin-cover DESTINATION plugins)
 

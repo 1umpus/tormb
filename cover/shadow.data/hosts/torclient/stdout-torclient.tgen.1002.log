@@ -1,0 +1,3 @@
+2000-01-01 00:20:00 946686000.000000 [message] [shd-tgen-main.c:82] [_tgenmain_run] Initializing traffic generator on host torclient process id 4381
+2000-01-01 00:20:00 946686000.000000 [critical] [shd-tgen-graph.c:696] [tgengraph_new] path 'conf/tgen.torclient.graphml.xml' to tgen config graph is not valid or does not exist
+2000-01-01 00:20:00 946686000.000000 [critical] [shd-tgen-main.c:112] [_tgenmain_run] cannot continue: traffic generator config file 'conf/tgen.torclient.graphml.xml' failed validation

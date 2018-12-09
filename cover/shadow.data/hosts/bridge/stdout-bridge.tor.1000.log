@@ -1,0 +1,4 @@
+Jan 01 00:01:00.000 [notice] Tor 0.3.2.9 (git-9e8b762fcecfece6) running on Linux with Libevent 2.0.21-stable, OpenSSL 1.0.1e, Zlib 1.2.8, Liblzma 5.1.0alpha, and Libzstd N/A.
+Jan 01 00:01:00.000 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Jan 01 00:01:00.000 [warn] Unable to open configuration file "/home/user/tormb/cover/conf/tor.relay.torrc".
+Jan 01 00:01:00.000 [err] Reading config failed--see warnings above.
