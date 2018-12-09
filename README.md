@@ -16,13 +16,13 @@ This plug-in was last tested and known to work with
 
 compiling
 ---------
-`bash
+```bash
 mkdir build
 cd build
 cmake .. -DCMAKE_INSTALL_PREFIX=`readlink -f ~`/.shadow
 make
 make install
-`
+```
 
 
 usage
