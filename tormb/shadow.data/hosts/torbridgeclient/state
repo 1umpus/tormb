@@ -1,0 +1,17 @@
+# Tor state file last generated on 2000-01-01 00:29:59 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=bridges rsa_id=A52CA5B56C64D864F6AE43E56F29ACBD5706DDA1 bridge_addr=100.0.0.1:9111 sampled_on=1999-12-20T21:24:40 sampled_by=0.3.5.7 listed=1 confirmed_on=1999-12-27T14:40:31 confirmed_idx=0 pb_use_attempts=2.000000 pb_use_successes=2.000000 pb_circ_attempts=52.000000 pb_circ_successes=52.000000 pb_successful_circuits_closed=52.000000
+TorVersion Tor 0.3.5.7
+LastWritten 2000-01-01 00:29:59
+TotalBuildTimes 53
+CircuitBuildTimeBin 625 20
+CircuitBuildTimeBin 675 11
+CircuitBuildTimeBin 725 5
+CircuitBuildTimeBin 775 2
+CircuitBuildTimeBin 825 6
+CircuitBuildTimeBin 875 3
+CircuitBuildTimeBin 925 1
+CircuitBuildTimeBin 1025 1
+CircuitBuildTimeBin 1175 4

@@ -1,0 +1,15 @@
+2000-01-01 00:01:01 946684861.000000 [message] [main] Starting torctl program on host exit1 process id 1001
+2000-01-01 00:01:01 946684861.000000 [message] [main] entering main loop to watch descriptors
+2000-01-01 00:01:01 946684861.000000 [info] [_torctl_activate] torctl-sent 'AUTHENTICATE'
+2000-01-01 00:01:01 946684861.000000 [info] [_torctl_processLine] successfully received auth response '250 OK'
+2000-01-01 00:01:01 946684861.000000 [info] [_torctl_activate] torctl-sent 'GETINFO status/bootstrap-phase'
+2000-01-01 00:01:01 946684861.000000 [info] [_torctl_activate] torctl-sent 'SETEVENTS EXTENDED STATUS_CLIENT'
+2000-01-01 00:02:32 946684952.019157 [message] [_torctl_processLine] torctl ready (Bootstrapped 100)
+2000-01-01 00:02:32 946684952.019157 [message] [_torctl_processLine] [torctl-log] localhost:9051 650 STATUS_CLIENT NOTICE CIRCUIT_ESTABLISHED
+2000-01-01 00:02:32 946684952.019157 [info] [_torctl_activate] torctl-sent 'SETEVENTS STREAM CIRC CIRC_MINOR ORCONN BW STREAM_BW CIRC_BW CONN_BW BUILDTIMEOUT_SET CLIENTS_SEEN GUARD CELL_STATS TB_EMPTY HS_DESC HS_DESC_CONTENT'
+2000-01-01 00:02:32 946684952.019157 [message] [_torctl_processLine] [torctl-log] localhost:9051 552 Unrecognized event "TB_EMPTY"
+2000-01-01 00:09:08 946685348.220542 [message] [_torctl_processLine] [torctl-log] localhost:9051 650 STATUS_CLIENT NOTICE CONSENSUS_ARRIVED
+2000-01-01 00:11:42 946685502.234337 [message] [_torctl_processLine] [torctl-log] localhost:9051 650 STATUS_CLIENT NOTICE CONSENSUS_ARRIVED
+2000-01-01 00:17:06 946685826.266170 [message] [_torctl_processLine] [torctl-log] localhost:9051 650 STATUS_CLIENT NOTICE CONSENSUS_ARRIVED
+2000-01-01 00:20:26 946686026.305377 [message] [_torctl_processLine] [torctl-log] localhost:9051 650 STATUS_CLIENT NOTICE CONSENSUS_ARRIVED
+2000-01-01 00:26:28 946686388.397614 [message] [_torctl_processLine] [torctl-log] localhost:9051 650 STATUS_CLIENT NOTICE CONSENSUS_ARRIVED

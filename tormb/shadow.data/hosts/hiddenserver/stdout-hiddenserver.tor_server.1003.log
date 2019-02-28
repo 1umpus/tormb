@@ -1,0 +1,8 @@
+[+] Starting tor_server on port: 8080
+Handling client: 127.0.0.1:48562
+Received: TORHIDDENCLIENT
+Handling client: 127.0.0.1:45672
+Received: TORCLIENT
+Handling client: 127.0.0.1:54856
+Received: TORBRIDGECLIENT
+Handling client: 127.0.0.1:40625

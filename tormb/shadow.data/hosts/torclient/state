@@ -1,0 +1,17 @@
+# Tor state file last generated on 2000-01-01 00:29:59 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=4EBB385C80A2CA5D671E16F1C722FBFB5F176891 nickname=exit2 sampled_on=1999-12-28T12:25:59 sampled_by=0.3.5.7 listed=1 confirmed_on=1999-12-22T13:53:46 confirmed_idx=0 pb_circ_attempts=49.000000 pb_circ_successes=49.000000 pb_successful_circuits_closed=49.000000
+Guard in=default rsa_id=0A9B1B207FD13A6F117F95CAFA358EEE2234F19A nickname=exit1 sampled_on=1999-12-28T14:39:31 sampled_by=0.3.5.7 listed=1 confirmed_on=1999-12-23T22:45:47 confirmed_idx=1 pb_use_attempts=2.000000 pb_use_successes=2.000000 pb_circ_attempts=3.000000 pb_circ_successes=3.000000 pb_successful_circuits_closed=3.000000
+Guard in=default rsa_id=FF197204099FA0E507FA46D41FED97D3337B4BAA nickname=relay2 sampled_on=1999-12-29T11:58:03 sampled_by=0.3.5.7 listed=1
+Guard in=default rsa_id=3FB0BD7827C760FE7F9DD810FCB10322D63AB4CF nickname=relay1 sampled_on=1999-12-25T06:56:25 sampled_by=0.3.5.7 listed=1
+TorVersion Tor 0.3.5.7
+LastWritten 2000-01-01 00:29:59
+TotalBuildTimes 53
+CircuitBuildTimeBin 625 24
+CircuitBuildTimeBin 675 12
+CircuitBuildTimeBin 725 8
+CircuitBuildTimeBin 875 3
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1425 5

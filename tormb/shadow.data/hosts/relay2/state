@@ -1,0 +1,36 @@
+# Tor state file last generated on 2000-01-01 00:29:56 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+BWHistoryReadEnds 2000-01-02 00:01:00
+BWHistoryReadInterval 86400
+BWHistoryReadValues 3381248
+BWHistoryReadMaxima 174080
+BWHistoryWriteEnds 2000-01-02 00:01:00
+BWHistoryWriteInterval 86400
+BWHistoryWriteValues 3303424
+BWHistoryWriteMaxima 173056
+BWHistoryDirReadEnds 2000-01-02 00:01:00
+BWHistoryDirReadInterval 86400
+BWHistoryDirReadValues 75776
+BWHistoryDirReadMaxima 0
+BWHistoryDirWriteEnds 2000-01-02 00:01:00
+BWHistoryDirWriteInterval 86400
+BWHistoryDirWriteValues 11264
+BWHistoryDirWriteMaxima 0
+Guard in=default rsa_id=4EBB385C80A2CA5D671E16F1C722FBFB5F176891 nickname=exit2 sampled_on=1999-12-30T19:22:58 sampled_by=0.3.5.7 listed=1 confirmed_on=1999-12-26T17:15:00 confirmed_idx=0 pb_circ_attempts=78.000000 pb_circ_successes=78.000000 pb_successful_circuits_closed=76.000000 pb_collapsed_circuits=2.000000
+Guard in=default rsa_id=0A9B1B207FD13A6F117F95CAFA358EEE2234F19A nickname=exit1 sampled_on=1999-12-25T04:45:32 sampled_by=0.3.5.7 listed=1 confirmed_on=1999-12-27T22:25:15 confirmed_idx=1 pb_circ_attempts=10.000000 pb_circ_successes=10.000000 pb_successful_circuits_closed=10.000000
+Guard in=default rsa_id=3FB0BD7827C760FE7F9DD810FCB10322D63AB4CF nickname=relay1 sampled_on=1999-12-29T06:28:56 sampled_by=0.3.5.7 listed=1
+TorVersion Tor 0.3.5.7
+LastRotatedOnionKey 2000-01-01 00:01:00
+LastWritten 2000-01-01 00:29:56
+TotalBuildTimes 93
+CircuitBuildTimeBin 625 47
+CircuitBuildTimeBin 675 22
+CircuitBuildTimeBin 725 14
+CircuitBuildTimeBin 775 3
+CircuitBuildTimeBin 1025 1
+CircuitBuildTimeBin 1375 1
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1625 2
+CircuitBuildTimeBin 2175 2
